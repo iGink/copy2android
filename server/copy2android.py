@@ -81,7 +81,7 @@ def printServerAddress():
     fp.close()
 
     client = Client(base_url='https://dav.jianguoyun.com',
-                    auth=('gink2618@163.com', '这里填写你的密码'))
+                    auth=('这里填写你的账号', '这里填写你的密码'))
     client.upload_file(from_path=fname, to_path='/dav/DavPaste/DavPaste.txt', overwrite=True)
 
     os.remove(fname)
