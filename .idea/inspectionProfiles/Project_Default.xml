@@ -1,0 +1,60 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="BashAddShebang" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="Duplicates" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="3">
+            <item index="0" class="java.lang.String" itemvalue="defaultvalue" />
+            <item index="1" class="java.lang.String" itemvalue="value" />
+            <item index="2" class="java.lang.String" itemvalue="th:inline" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="7">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="materialicons" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="JavadocDeclaration" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ADDITIONAL_TAGS" value="create" />
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="src.main.python.first.open" />
+          <option value="src.main.python.first.*" />
+          <option value="datetime" />
+          <option value="src.main.python.mail.*" />
+          <option value="src.main.python.web_time_performance.len" />
+          <option value="src.main.python.web_time_performance.long" />
+          <option value="src.main.python.web_time_performance.ValueError" />
+          <option value="src.main.python.web_time_performance.int" />
+          <option value="src.main.python.web_time_performance.object" />
+          <option value="src.main.python.web_time_performance.str" />
+          <option value="src.main.python.web_time_performance.sum" />
+          <option value="src.main.python.web_time_performance.sorted" />
+          <option value="python.nginx_time_performance.object" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="SpringJavaAutowiringInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="TsLint" enabled="true" level="WARNING" enabled_by_default="true" />
+  </profile>
+</component>
