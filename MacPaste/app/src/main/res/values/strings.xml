@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MacPaste</string>
+    <string name="paste_input">当前仅支持文本的复制粘贴</string>
+    <string name="btn_pull">更新baseUrl</string>
+    <string name="btn_push">手动连接</string>
+    <string name="not_connect">未连接</string>
+    <string name="need_connect">请点击手动连接以获取URL</string>
+</resources>
